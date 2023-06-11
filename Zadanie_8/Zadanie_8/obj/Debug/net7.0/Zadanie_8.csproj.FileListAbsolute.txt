@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\10.06.2023\Zadanie_8\Zadanie_8\bin\Debug\net7.0\Zadanie_8.exe
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\10.06.2023\Zadanie_8\Zadanie_8\bin\Debug\net7.0\Zadanie_8.deps.json
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\10.06.2023\Zadanie_8\Zadanie_8\bin\Debug\net7.0\Zadanie_8.runtimeconfig.json
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\10.06.2023\Zadanie_8\Zadanie_8\bin\Debug\net7.0\Zadanie_8.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\10.06.2023\Zadanie_8\Zadanie_8\bin\Debug\net7.0\Zadanie_8.pdb
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\10.06.2023\Zadanie_8\Zadanie_8\obj\Debug\net7.0\Zadanie_8.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\10.06.2023\Zadanie_8\Zadanie_8\obj\Debug\net7.0\Zadanie_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\10.06.2023\Zadanie_8\Zadanie_8\obj\Debug\net7.0\Zadanie_8.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\10.06.2023\Zadanie_8\Zadanie_8\obj\Debug\net7.0\Zadanie_8.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\10.06.2023\Zadanie_8\Zadanie_8\obj\Debug\net7.0\Zadanie_8.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\10.06.2023\Zadanie_8\Zadanie_8\obj\Debug\net7.0\Zadanie_8.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\10.06.2023\Zadanie_8\Zadanie_8\obj\Debug\net7.0\refint\Zadanie_8.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\10.06.2023\Zadanie_8\Zadanie_8\obj\Debug\net7.0\Zadanie_8.pdb
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\10.06.2023\Zadanie_8\Zadanie_8\obj\Debug\net7.0\Zadanie_8.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\10.06.2023\Zadanie_8\Zadanie_8\obj\Debug\net7.0\ref\Zadanie_8.dll
